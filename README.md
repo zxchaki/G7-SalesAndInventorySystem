@@ -1,1 +1,2 @@
-# G7-SalesAndInventorySystem
+# SaleAndInventory
+Kandyland-SalesAndInventory
